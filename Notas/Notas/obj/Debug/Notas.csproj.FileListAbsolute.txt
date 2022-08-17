@@ -1,0 +1,6 @@
+D:\Visual Studio 2022\Repos\Notas\Notas\obj\Debug\Notas.csproj.AssemblyReference.cache
+D:\Visual Studio 2022\Repos\Notas\Notas\obj\Debug\Notas.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\Repos\Notas\Notas\bin\Debug\Notas.dll
+D:\Visual Studio 2022\Repos\Notas\Notas\bin\Debug\Notas.pdb
+D:\Visual Studio 2022\Repos\Notas\Notas\obj\Debug\Notas.dll
+D:\Visual Studio 2022\Repos\Notas\Notas\obj\Debug\Notas.pdb

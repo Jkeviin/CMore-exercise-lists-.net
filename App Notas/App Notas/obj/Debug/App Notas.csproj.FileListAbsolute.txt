@@ -1,0 +1,14 @@
+D:\Visual Studio 2022\Repos\App Notas\App Notas\bin\Debug\App Notas.exe.config
+D:\Visual Studio 2022\Repos\App Notas\App Notas\bin\Debug\App Notas.exe
+D:\Visual Studio 2022\Repos\App Notas\App Notas\bin\Debug\App Notas.pdb
+D:\Visual Studio 2022\Repos\App Notas\App Notas\bin\Debug\Notas.dll
+D:\Visual Studio 2022\Repos\App Notas\App Notas\bin\Debug\Notas.pdb
+D:\Visual Studio 2022\Repos\App Notas\App Notas\obj\Debug\App Notas.csproj.AssemblyReference.cache
+D:\Visual Studio 2022\Repos\App Notas\App Notas\obj\Debug\App Notas.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio 2022\Repos\App Notas\App Notas\obj\Debug\App_Notas.Form1.resources
+D:\Visual Studio 2022\Repos\App Notas\App Notas\obj\Debug\App_Notas.Properties.Resources.resources
+D:\Visual Studio 2022\Repos\App Notas\App Notas\obj\Debug\App Notas.csproj.GenerateResource.cache
+D:\Visual Studio 2022\Repos\App Notas\App Notas\obj\Debug\App Notas.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\Repos\App Notas\App Notas\obj\Debug\App Notas.csproj.CopyComplete
+D:\Visual Studio 2022\Repos\App Notas\App Notas\obj\Debug\App Notas.exe
+D:\Visual Studio 2022\Repos\App Notas\App Notas\obj\Debug\App Notas.pdb
