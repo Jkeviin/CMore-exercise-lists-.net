@@ -36,8 +36,6 @@ namespace Notas
             try
             {
                 resultado = notas / cantidad;
-                Console.WriteLine(notas);
-                Console.WriteLine(resultado);
                 return true;
             }
             catch (Exception ex)
@@ -57,7 +55,6 @@ namespace Notas
 
 
         #region Metodos Privados
-
         private bool ValidarTamano()
         {
             if (nota < 0 || nota > 5)
@@ -72,7 +69,7 @@ namespace Notas
         {
             if (cantidad >= 4)
             {
-                error = "No se pueden agregar mas de 4";
+                error = "No se pueden agregar mas de 4 notas";
                 return false;
             }
             return true;
@@ -93,14 +90,12 @@ namespace Notas
         {
             if(cantidad < 4)
             {
-                Console.WriteLine(cantidad);
                 error = "Debes agregar 4 notas";
                 return false;
             }
             return true;
         }
         #endregion
-
 
 
         #region Propiedades

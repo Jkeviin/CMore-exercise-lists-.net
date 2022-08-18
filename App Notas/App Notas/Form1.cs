@@ -115,5 +115,31 @@ namespace App_Notas
                 e.Handled = true;
             }
         }
+
+        private void limpiar()
+        {
+            foreach (Control ctr in this.Controls)
+            {
+                if (ctr is TextBox && !(ctr.Name is "txtresultado"))
+                {
+                    ctr.Text = string.Empty;
+                }
+                
+                if(ctr.Name is "lista_nota")
+                {
+                    ctr.Text = string.Empty;
+                }
+
+                i = 0;
+
+                notas.Clear();
+            }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            limpiar();
+        }
+
     }
 }

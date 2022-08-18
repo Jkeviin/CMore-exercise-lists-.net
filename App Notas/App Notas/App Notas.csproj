@@ -33,7 +33,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Notas">
+    <Reference Include="Notas, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\Notas\Notas\bin\Debug\Notas.dll</HintPath>
     </Reference>
     <Reference Include="System" />
